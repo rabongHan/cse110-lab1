@@ -1,12 +1,11 @@
-## Profile
+## Jaewon's Github
+### Profile
 
-Name: **Jaewon Han** 
+![](/images/MyPhoto.jpg)
 
-![](/images/cse15l-account-1.png)
-
-IG: [https://www.instagram.com/jwonn117/](https://www.instagram.com/jwonn117)
-
-Favorite Programming Language:
+- Name: **Jaewon Han** 
+- IG: [https://www.instagram.com/jwonn117/](https://www.instagram.com/jwonn117)
+- Favorite Programming Language:
 
 > Java
 
@@ -14,13 +13,15 @@ Favorite Programming Language:
 System.out.println("Hello World!");
 ```
 
+- [lab1 main page](README.md)
+
 ### UCSD
 
 Seventh College / CS Major & Math Minor
 
 2nd year student (junior standing)
 
-#### CS courses taken
+#### CS courses taken so far
     1. CSE11
     2. CSE12
     3. CSE15L
@@ -37,5 +38,7 @@ Seventh College / CS Major & Math Minor
     14. CSE140 (currently taking)
     15. CSE140L (currently taking)
 
-
-###
+### Things to do this quarter (SP24)
+- [x] Finish the first lab hw for CSE110 
+- [x] Do not miss first CSE110 class in week 1
+- [ ] Organize the calendar 
